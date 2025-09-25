@@ -2,6 +2,8 @@
 
 This repository contains the materials for the CDCS introductory workshop on version control. Git is a distributed version control system that keeps track of changes to your project files, which is useful for collaborating with others on all kinds of files, but particularly software code. GitHub (the website you are viewing this on) is an online platform to manage and sync git repositories. This workshop uses [GitHub Desktop](https://desktop.github.com), an app that simplifies working with git and GitHub on your computer.
 
+The materials in this repository have been adapted from [Aislinn Keogh's 2024 version](https://github.com/DCS-training/version-control-2024) of this course.
+
 ## Getting Ready
 
 Before the course, please do the following:
@@ -26,10 +28,7 @@ Before the course, please do the following:
   - [Resolving merge conflicts](https://github.com/skills/resolve-merge-conflicts)
   - [List of all skills tutorials](https://github.com/skills)
 - [GitHub student pack](https://education.github.com/pack) (free GitHub Pro upgrade and other free software)
-- LinkedIn Learning courses ([can be accessed for free with a University of Edinburgh email](https://www.ed.ac.uk/information-services/help-consultancy/is-skills/linkedin-learning))
-
-  - [Git Essential Training](https://www.linkedin.com/learning/git-essential-training-the-basics): An intro to Git that uses the command line.
-  - [Learning GitHub](https://www.linkedin.com/learning/learning-github)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
   ## License
 
